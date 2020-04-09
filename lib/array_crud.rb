@@ -40,7 +40,9 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  the_beatles = ["john lennon", "ringo starr", "paul mccartney", "george harrison"]
+  the_beatles << "arrays!"
+  the_beatles[-1]
 end
 
 def update_element_from_index(array, index_number, element)
