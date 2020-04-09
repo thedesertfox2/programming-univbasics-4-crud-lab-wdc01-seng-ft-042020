@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array3 = Array.new(4)
-  array3.push("nil")
+  array3.push
 end
 
 def add_element_to_start_of_array(array, element)
