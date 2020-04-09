@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  puts the_beatles = ["ringo starr", "john lennon", "paul mccartney", "george harrison"]
+  the_beatles[4] 
 end
 
 def add_element_to_end_of_array(array, element)
