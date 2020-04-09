@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   the_beatles = ["john lennon", "ringo starr", "paul mccartney", "george harrison"]
-  array3 << "nil"
+  the_beatles << "no one"
 end
 
 def add_element_to_start_of_array(array, element)
