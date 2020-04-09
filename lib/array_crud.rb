@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array3 = Array.new(4)
+  the_beatles = ["john lennon", "ringo starr", "paul mccartney", "george harrison"]
   array3 << "nil"
 end
 
