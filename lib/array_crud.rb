@@ -23,6 +23,8 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
+  the_beatles = ["john lennon", "ringo starr", "paul mccartney", "george harrison"]
+  the_beatles.unshift("wow")
   the_beatles.shift
 end
 
