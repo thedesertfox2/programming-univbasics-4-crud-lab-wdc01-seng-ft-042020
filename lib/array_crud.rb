@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
  the_beatles = ["john lennon", "ringo starr", "paul mccartney", "george harrison", "arrays!"]
-  
+  arrays_beatles = 
 end
 
 def retrieve_element_from_index(array, index_number)
