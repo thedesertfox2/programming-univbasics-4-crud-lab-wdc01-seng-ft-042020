@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  the_beatles = []
 end
 
 def create_an_array
